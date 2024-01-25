@@ -165,6 +165,12 @@
 	 <li>A line chart has been created to show the trend of total sales over the years.</li>
 	 <li>Nested IF function a is used to classify "sales" into three categories:
              low, medium and high</li>
+	 <li>Added slicers to pivot table to allow easy filtering by "month","Year."</li>
+	 <li>Used the INDEX and MATCH functions to find a "Sales Rep" for a specific "Customer Name".</li>
+	 <li>Applied a custom conditional format to highlight the top 
+             10% of sales values with a distinct color.</li>
+	 <li>Scenario Manager is used to compare different scenarios for the future sales by changing 
+             variables like "price" and "quantity".</li>
  </ul>
 
  <h2 style="font-family:verdana;">How to Use</h2>
