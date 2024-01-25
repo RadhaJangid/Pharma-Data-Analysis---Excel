@@ -2,11 +2,11 @@
 
 In this 'Data Analysis' project, we'll analyze a global Pharmaceutical Manufacturing Company's raw sales data and draw meaningful insights.
 	
-## Overview
+## Overview -
 
 This project represents my work as an intern at Psyliq, where I had the opportunity to analyze a dataset related to the pharmaceutical industry. Using Excel, I conducted a comprehensive analysis and successfully completed the project.
 	
-## DATASET INFO
+## Dataset Info -
 <div class="w3-container">
 	<table class="w3-table-all w3-card-4">
 		    <tr>
@@ -107,7 +107,7 @@ This project represents my work as an intern at Psyliq, where I had the opportun
 		</table>
  </div>
  
-## Project Details
+## Project Details - 
 #### Internship : Psyliq
 #### Domain/Field : Analytics
 #### Project Type : Data Analysis
@@ -115,7 +115,7 @@ This project represents my work as an intern at Psyliq, where I had the opportun
 * Excel
 
 
-## Key Highlights
+## Key Highlights -
 ### Objective
 
 Conducted in-depth analysis of the pharmaceutical dataset. Utilized Excel to extract valuable insights from the data. Successfully completed the project, contributing to Psyliq's data analysis efforts.
@@ -165,11 +165,11 @@ Conducted in-depth analysis of the pharmaceutical dataset. Utilized Excel to ext
   "price" and "quantity".
 
 
-## How to Use
+## How to Use - 
 
 I am attaching the link of, Excel file used for this  Data Analysis Project. Feel free to explore the code and findings.
 
-## Acknowledgments
+## Acknowledgments -
 
 I'd like to express my gratitude to Psyliq for providing me with this 
    valuable opportunity to work on this project and gain experience in data analysis.
