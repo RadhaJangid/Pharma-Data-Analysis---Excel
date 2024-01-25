@@ -1,9 +1,9 @@
 <h1 style="font-family:verdana;>Pharma-Data-Analysis - Excel</h1> 
-  <p style="font-family:courier;">In this 'Data Analysis' project, we'll analyze a global Pharmaceutical     
+  <p>In this 'Data Analysis' project, we'll analyze a global Pharmaceutical     
      Manufacturing Company's raw sales data and draw meaningful insights.</p>
 	
 <h2 style="font-family:verdana;>Overview</h2>
-  <p style="font-family:courier;">This project represents my work as an intern at Psyliq, where I had the 
+  <p>This project represents my work as an intern at Psyliq, where I had the 
      opportunity to analyze a dataset related to the pharmaceutical industry. Using Excel, I conducted a 
      comprehensive analysis and successfully completed the project.</p>
 	
