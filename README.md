@@ -137,13 +137,18 @@
     </li>
   </ol>
   </p>
-  <h4 style="font-family:verdana;">Data Cleaning</h4>
+  <h4 style="font-family:verdana;">Data Cleaning & Processing</h4>
   <ul>
 	  <li>Assigning the correct data type to each column</li>
 	  <li>Remove Duplicates</li>
-   	  <li>The "Quantity" and "Sales" columns have negative values, which might indicate errors in data 
-              entry or interpretation.</li>
-	  <li></li>    
+   	  <li>The "Quantity" and "Sales" columns contain negative values, indicating errors in data entry. To 
+              remove these errors from the Quantity and Sales columns, we create two new columns called 
+              Custom Quantity, Custom Sales and use ABS() to handle these negative values.</li>
+	  <li>183 values ​​in the City column have an encoding or display issue. To correct the values ​​we 
+              create a separate table with two columns: one for the wrong values ​​and the other for the 
+              correct values. This table will be used as reference for  improvements.
+              VLOOKUP function is used to look up the correct value from the correction table in a new 
+              column.</li>    
 	  
   </ul>
 
