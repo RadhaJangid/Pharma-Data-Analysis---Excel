@@ -161,6 +161,7 @@
 	 <li>Used the LOOKUP function to find the "Manager" for a specific "Sales Rep".</li>
 	 <li>Data is sorted by "Country" first in ascending order, and then in descending order by "month".
          </li>
+	 <li>Applied a filter  where "Product Category" is either "Antibiotic" or "Antiseptic".</li>
 	 <li>Added a calculated field to the pivot table to calculate the average price per unit sold.</li>
 	 <li>A line chart has been created to show the trend of total sales over the years.</li>
 	 <li>Nested IF function a is used to classify "sales" into three categories:
