@@ -148,8 +148,8 @@
               VLOOKUP function is used to look up the correct value from the correction table in a new 
               column.</li>    	  
  </ul>
- <h4 style="font-family:verdana;">Task <hr style="width:20%;text-align:left;margin-left:0"</h4>
- <i><ul style="font-size:20px">
+ <h4 style="font-family:verdana;">Task <hr style="width:20%;text-align:left;margin-left:0"></h4>
+ <i><ul>
 	 <li>Data is filtered to show only specific country records.</li>
 	 <li>The data is sorted in ascending order based on the "Sales" column.</li>
 	 <li>The data is summarized by calculating the total quantity of all products sold in the year 2023. 
