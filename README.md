@@ -108,10 +108,10 @@ This project represents my work as an intern at Psyliq, where I had the opportun
  </div>
  
 ## Project Details
-### Internship : Psyliq
-### Domain/Field : Analytics
-### Project Type : Data Analysis
-### Tools Used:
+#### Internship : Psyliq
+#### Domain/Field : Analytics
+#### Project Type : Data Analysis
+#### Tools Used:
 * Excel
 
 
@@ -120,7 +120,7 @@ This project represents my work as an intern at Psyliq, where I had the opportun
 
 Conducted in-depth analysis of the pharmaceutical dataset. Utilized Excel to extract valuable insights from the data. Successfully completed the project, contributing to Psyliq's data analysis efforts.
 
-#### Loading Data
+### Loading Data
  Loaded the data into Microsoft Excel, applied:-
  Basic formatting is an essential step in presenting data in a clear and organized manner.It involves :-
  * Adjust the font size
