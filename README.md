@@ -148,7 +148,24 @@
               VLOOKUP function is used to look up the correct value from the correction table in a new 
               column.</li>    	  
  </ul>
-
+ <h2 style="font-family:verdana;">Task Performed</h2>
+ <ul>
+	 <li>Data is filtered to show only specific country records.</li>
+	 <li>The data is sorted in ascending order based on the "Sales" column.</li>
+	 <li>The data is summarized by calculating the total quantity of all products sold in the year 2023. 
+         </li>
+	 <li>Conditional formatting applied to highlight all cells larger than
+             $5,000 in the "Sales" column.</li>
+	 <li>A pivot table has been created to summarize total sales by "channel".</li>
+	 <li>A bar chart is inserted to show sales quantity by "Product Category".</li>
+	 <li>Used the LOOKUP function to find the "Manager" for a specific "Sales Rep".</li>
+	 <li>Data is sorted by "Country" first in ascending order, and then in descending order by "month".
+         </li>
+	 <li>Added a calculated field to the pivot table to calculate the average price per unit sold.</li>
+	 <li>A line chart has been created to show the trend of total sales over the years.</li>
+	 <li>Nested IF function a is used to classify "sales" into three categories:
+             low, medium and high</li>
+ </ul>
 
  <h2 style="font-family:verdana;">How to Use</h2>
  <p style="font-family:courier;">I am attaching the link of, Excel file used for this  Data Analysis Project. 
