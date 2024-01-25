@@ -136,7 +136,7 @@
     </li></i>
   </p>
   <h4 style="font-family:verdana;">Data Cleaning & Processing</h4>
-  <ul>
+  <i><ul>
 	  <li>Assigning the correct data type to each column</li>
 	  <li>Remove Duplicates</li>
    	  <li>The "Quantity" and "Sales" columns contain negative values, indicating errors in data entry. To 
@@ -148,7 +148,7 @@
               VLOOKUP function is used to look up the correct value from the correction table in a new 
               column.</li>    
 	  
-  </ul>
+  </ul></i>
 
  <h2 style="font-family:verdana;">How to Use</h2>
  <p style="font-family:courier;">I am attaching the link of, Excel file used for this  Data Analysis Project. 
