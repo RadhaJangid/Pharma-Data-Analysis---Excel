@@ -122,7 +122,7 @@
 
 <h4 style="font-family:verdana;">Loading Data</h4>
 <p style="font-family:courier;">Loaded the data into Microsoft Excel, applied:-
-<h6 style="font-family:verdana;">Basic formatting -</h6> is an essential step in presenting data in a clear and organized manner. It 
+<b>Basic formatting -</b> is an essential step in presenting data in a clear and organized manner. It 
            involves:
         <ul>
           <li>Adjust the font size</li>
