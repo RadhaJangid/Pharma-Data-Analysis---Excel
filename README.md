@@ -1,13 +1,12 @@
-<h1 style="font-family:verdana;">Pharma-Data-Analysis - Excel</h1> 
-<p>In this 'Data Analysis' project, we'll analyze a global Pharmaceutical     
-     Manufacturing Company's raw sales data and draw meaningful insights.</p>
+# Pharma-Data-Analysis - Excel 
+
+In this 'Data Analysis' project, we'll analyze a global Pharmaceutical Manufacturing Company's raw sales data and draw meaningful insights.
 	
-<h2 style="font-family:verdana;">Overview</h2>
-  <p>This project represents my work as an intern at Psyliq, where I had the 
-     opportunity to analyze a dataset related to the pharmaceutical industry. Using Excel, I conducted a 
-     comprehensive analysis and successfully completed the project.</p>
+## Overview
+
+This project represents my work as an intern at Psyliq, where I had the opportunity to analyze a dataset related to the pharmaceutical industry. Using Excel, I conducted a comprehensive analysis and successfully completed the project.
 	
-<h2 style="font-family:verdana;">DATASET INFO</h2>
+## DATASET INFO
 <div class="w3-container">
 	<table class="w3-table-all w3-card-4">
 		    <tr>
@@ -107,14 +106,14 @@
 		    </tr>
 		</table>
  </div>
-<h2 style="font-family:verdana;">Project Details</h2>
-<h5 style="font-family:verdana;">Internship : Psyliq</h5>
-<h5 style="font-family:verdana;">Domain/Field : Analytics</h5>
-<h5 style="font-family:verdana;">Project Type : Data Analysis</h5>
-<h5 style="font-family:verdana;">Tools Used:
-<ul>
-  <li>Excel</li>
-</ul></h5>
+ 
+## Project Details
+#### Internship : Psyliq
+#### Domain/Field : Analytics
+#### Project Type : Data Analysis
+#### Tools Used:
+- Excel
+
 
 <h2 style="font-family:verdana;">Key Highlights</h2>
 <h4 style="font-family:verdana;">Objective</h4>
