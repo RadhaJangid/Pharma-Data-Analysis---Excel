@@ -123,7 +123,7 @@
 <h4 style="font-family:verdana;">Loading Data</h4>
 <p style="font-family:courier;">Loaded the data into Microsoft Excel, applied:-<br>
 <i><b>Basic formatting- </b> is an essential step in presenting data in a clear and organized manner.<br> 
-	It involves:</i>
+	It involves :-</i>
         <ul>
           <li>Adjust the font size</li>
           <li>Adjust column size</li>
