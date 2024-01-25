@@ -1,5 +1,5 @@
 <h1 style="font-family:verdana;">Pharma-Data-Analysis - Excel</h1> 
-  <p style="font-family:verdana;">In this 'Data Analysis' project, we'll analyze a global Pharmaceutical     
+<p style="font-size:10px">In this 'Data Analysis' project, we'll analyze a global Pharmaceutical     
      Manufacturing Company's raw sales data and draw meaningful insights.</p>
 	
 <h2 style="font-family:verdana;">Overview</h2>
