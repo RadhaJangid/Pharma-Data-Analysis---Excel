@@ -107,3 +107,10 @@
 		    </tr>
 		</table>
  </div>
+ <h2 style="font-family:verdana;">How to Use</h2>
+ <p style="font-family:courier;">I am attaching the link of, Excel file used for this  Data Analysis Project. 
+    Feel free to explore the code and findings.</p>
+
+<h2 style="font-family:verdana;">Acknowledgments</h2>
+<p style="font-family:courier;">I'd like to express my gratitude to Psyliq for providing me with this 
+   valuable opportunity to work on this project and gain experience in data analysis.</p>
