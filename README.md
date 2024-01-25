@@ -120,6 +120,23 @@
 <h4 style="font-family:verdana;">Objective</h4>
 <p style="font-family:courier;">Conducted in-depth analysis of the pharmaceutical dataset. Utilized Excel to extract valuable insights from the data. Successfully completed the project, contributing to Psyliq's data analysis efforts.</p>
 
+<h4 style="font-family:verdana;">Data Collection</h4>
+<p style="font-family:courier;">Loaded the data into Microsoft Excel, applied:-
+  <ol>
+    <li>Basic formatting - is an essential step in presenting data in a clear and organized manner. It 
+           involves:
+        <ul>
+          <li>Adjust the Font Size</li>
+          <li>Adjust Column Size</li>
+          <li>Highlight the Header</li>
+          <li>Use Different Background Colors</li>
+          <li>Center the Title</li>
+          <li>Give borders around the ranges of values</li>
+        </ul>
+    </li>
+  </ol>
+  </p>
+
  <h2 style="font-family:verdana;">How to Use</h2>
  <p style="font-family:courier;">I am attaching the link of, Excel file used for this  Data Analysis Project. 
     Feel free to explore the code and findings.</p>
