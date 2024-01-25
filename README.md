@@ -1,4 +1,3 @@
-#RRGGBB
 # Pharma-Data-Analysis - Excel 
 
 In this 'Data Analysis' project, we'll analyze a global Pharmaceutical Manufacturing Company's raw sales data and draw meaningful insights.
