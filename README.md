@@ -149,7 +149,7 @@
               column.</li>    	  
  </ul>
  <h4 style="font-family:verdana;">Task</h4>
- <i><ul>
+<ul>
 	 <li>Data is filtered to show only specific country records.</li>
 	 <li>The data is sorted in ascending order based on the "Sales" column.</li>
 	 <li>The data is summarized by calculating the total quantity of all products sold in the year 2023. 
@@ -175,7 +175,7 @@
              10% of sales values with a distinct color.</li>
 	 <li>Scenario Manager is used to compare different scenarios for the future sales by changing 
              variables like "price" and "quantity".</li>
- </ul></i>
+ </ul>
 
  <h2 style="font-family:verdana;">How to Use</h2>
  <p style="font-family:courier;">I am attaching the link of, Excel file used for this  Data Analysis Project. 
