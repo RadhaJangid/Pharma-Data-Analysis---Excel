@@ -156,6 +156,8 @@
          </li>
 	 <li>Conditional formatting applied to highlight all cells larger than
              $5,000 in the "Sales" column.</li>
+	 <li>Data validation is set to allow only specific cities from a predefined list in the "City" 
+             column.</li>
 	 <li>A pivot table has been created to summarize total sales by "channel".</li>
 	 <li>A bar chart is inserted to show sales quantity by "Product Category".</li>
 	 <li>Used the LOOKUP function to find the "Manager" for a specific "Sales Rep".</li>
