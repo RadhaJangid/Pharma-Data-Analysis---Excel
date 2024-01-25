@@ -141,6 +141,9 @@
   <ul>
 	  <li>Assigning the correct data type to each column</li>
 	  <li>Remove Duplicates</li>
+   	  <li>The "Quantity" and "Sales" columns have negative values, which might indicate errors in data 
+              entry or interpretation.</li>
+	  <li></li>    
 	  
   </ul>
 
