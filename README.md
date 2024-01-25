@@ -107,6 +107,15 @@
 		    </tr>
 		</table>
  </div>
+<h2 style="font-family:verdana;">Project Details</h2>
+<h5 style="font-family:verdana;">Internship : Psyliq</h5>
+<h5 style="font-family:verdana;">Domain/Field : Analytics</h5>
+<h5 style="font-family:verdana;">Project Type : Data Analysis</h5>
+<h5 style="font-family:verdana;">Tools Used:
+<ul>
+  <li>Excel</li>
+</ul></h5>
+
  <h2 style="font-family:verdana;">How to Use</h2>
  <p style="font-family:courier;">I am attaching the link of, Excel file used for this  Data Analysis Project. 
     Feel free to explore the code and findings.</p>
