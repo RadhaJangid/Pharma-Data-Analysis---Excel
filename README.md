@@ -1,5 +1,5 @@
 <h1 style="font-family:verdana;">Pharma-Data-Analysis - Excel</h1> 
-<p style="font-size:10px">In this 'Data Analysis' project, we'll analyze a global Pharmaceutical     
+<p>In this 'Data Analysis' project, we'll analyze a global Pharmaceutical     
      Manufacturing Company's raw sales data and draw meaningful insights.</p>
 	
 <h2 style="font-family:verdana;">Overview</h2>
@@ -148,7 +148,7 @@
               VLOOKUP function is used to look up the correct value from the correction table in a new 
               column.</li>    	  
  </ul>
- <h4 style="font-family:verdana;">Task <hr style="width:20%;text-align:left;margin-left:0"></h4>
+ <h4 style="font-family:verdana;">Task</h4>
  <i><ul>
 	 <li>Data is filtered to show only specific country records.</li>
 	 <li>The data is sorted in ascending order based on the "Sales" column.</li>
