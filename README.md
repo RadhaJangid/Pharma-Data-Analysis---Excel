@@ -122,6 +122,7 @@ Conducted in-depth analysis of the pharmaceutical dataset. Utilized Excel to ext
 
 ### Loading Data
  Loaded the data into Microsoft Excel, applied:-
+ 
  **Basic formatting** is an essential step in presenting data in a clear and organized manner.It involves :-
  * Adjust the font size
  * Adjust column size
