@@ -117,7 +117,7 @@
 </ul></h5>
 
 <h2 style="font-family:verdana;">Key Highlights</h2>
-<h4 style="font-family:verdana;">Objective</h4><hr width="20%" size="2" color="yellow" noshade>
+<h4 style="font-family:verdana;">Objective</h4><hr width="5%" size="1" color="yellow">
 <p style="font-family:courier;">Conducted in-depth analysis of the pharmaceutical dataset. Utilized Excel to extract valuable insights from the data. Successfully completed the project, contributing to Psyliq's data analysis efforts.</p>
 
 <h4 style="font-family:verdana;">Loading Data</h4>
