@@ -148,7 +148,7 @@
               VLOOKUP function is used to look up the correct value from the correction table in a new 
               column.</li>    	  
  </ul>
- <h4 style="font-family:verdana;">Task Performed</h4>
+
 
  <h2 style="font-family:verdana;">How to Use</h2>
  <p style="font-family:courier;">I am attaching the link of, Excel file used for this  Data Analysis Project. 
