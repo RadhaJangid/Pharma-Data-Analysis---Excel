@@ -18,92 +18,92 @@
 		    <tr>
 		      <td>Distributor</td>
 		      <td>string</td>
-		      <td>Distributor's name</td>
+		      <td>Name of Wholesaler</td>
 		    </tr>
 		    <tr>
 		      <td>Customer Name</td>
 		      <td>string</td>
-		      <td>The name of the customer purchasing the pharmaceutical products.</td>
+		      <td>Name of customer</td>
 		    </tr>
 		    <tr>
 		      <td>City</td>
 		      <td>string</td>
-		      <td>City where the customer is located</td>
+		      <td>Customer's city</td>
 		    </tr>
 		    <tr>
 		      <td>Country</td>
 		      <td>string</td>
-		      <td>Country where the customer is located</td>
+		      <td>Customer's country</td>
 		    </tr>
 		    <tr>
 		        <td>Latitude</td>
 		        <td>decimal</td>
-		        <td>Geographical latitude associated with the location</td>
+		        <td>Customer's Geo Latitude</td>
 		    </tr>
 		    <tr>
 		        <td>Longitude</td>
 		        <td>decimal</td>
-		        <td>Geographical Longitude associated with the location</td>
+		        <td>Customer's Geo Longitude</td>
 		    </tr>
 		    <tr>
 		        <td>Channel</td>
 		        <td>string</td>
-		        <td>Distribution channel</td>
+		        <td>Class of buyer (Hospital, Pharmacy)</td>
 		    </tr>
 		    <tr>
 		        <td>Sub-channel</td>
 		        <td>string</td>
-		        <td>Identifier for any applied coupons</td>
+		        <td>Sector of the buyer (Government, Private, etc.)</td>
 		    </tr>    
 		    <tr>
 		      <td>Product Name</td>
 		      <td>string</td>
-		      <td>The name of the pharmaceutical product being sold</td>
+		      <td>Name of Drug</td>
 		    </tr>
 		    <tr>
 		      <td>Product Class</td>
 		      <td>string</td>
-		      <td>Class or category to which the pharmaceutical product belongs</td>
+		      <td>Class of Drug (Antibiotics, etc.)</td>
 		    </tr>
 		    <tr>
 		      <td>Quantity</td>
 		      <td>integer</td></td>
-		      <td>Quantity of the pharmaceutical product</td>
+		      <td>Quantity purchased</td>
 		    </tr>
 		    <tr>
 		      <td>Price</td>
 		      <td>integer</td>
-		      <td>Unit price of the pharmaceutical product</td>
+		      <td>Price product was sold for</td>
 		    </tr>
 		    <tr>
 		        <td>Sales</td>
 		        <td>decimal</td>
-		        <td>Total sales amount</td>
+		        <td>Amount made from sale</td>
 		    </tr>
 		    <tr>
 		      <td>Month</td>
 		      <td>date</td>
-		      <td>The month in which the transaction occurred</td>
+		      <td>Month sale was made</td>
 		    </tr>
 		    <tr>
 		      <td>Year</td>
 		      <td>integer</td>
-		      <td>The year in which the transaction occurred</td>
+		      <td>Year sale was made</td>
 		    </tr>
 		    <tr>
 		      <td>Name of Sales Rep</td>
 		      <td>string</td>
-		      <td>The name of the sales representative</td>
+		      <td>Name of the Sales rep who facilitated the sale</td>
 		    </tr>
 		    <tr>
 		        <td>Manager</td>
 		        <td>string</td>
-		        <td>The manager overseeing the sales representative</td>
+		        <td>Sales rep's Manager Name</td>
 		    </tr>
 		    <tr>
 		        <td>Sales Team</td>
 		        <td>string</td>
-		        <td>The team to which the sales representative belongs</td>
+		        <td>Sale rep's team</td>
 		    </tr>
 		</table>
  </div>
