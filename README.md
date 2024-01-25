@@ -126,12 +126,13 @@
     <li>Basic formatting - is an essential step in presenting data in a clear and organized manner. It 
            involves:
         <ul>
-          <li>Adjust the Font Size</li>
-          <li>Adjust Column Size</li>
-          <li>Highlight the Header</li>
-          <li>Use Different Background Colors</li>
-          <li>Center the Title</li>
+          <li>Adjust the font size</li>
+          <li>Adjust column size</li>
+          <li>Highlight the header</li>
+          <li>Use different background colors</li>
+          <li>Center the title</li>
           <li>Give borders around the ranges of values</li>
+	  <li>Convert the given data range into table</li>
         </ul>
     </li>
   </ol>
