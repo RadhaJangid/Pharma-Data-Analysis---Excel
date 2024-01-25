@@ -149,7 +149,7 @@
               column.</li>    	  
  </ul>
  <h4 style="font-family:verdana;">Task Performed</h4>
- <i><ul>
+ <i><ul style="font-size:30px">
 	 <li>Data is filtered to show only specific country records.</li>
 	 <li>The data is sorted in ascending order based on the "Sales" column.</li>
 	 <li>The data is summarized by calculating the total quantity of all products sold in the year 2023. 
