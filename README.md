@@ -117,7 +117,7 @@
 </ul></h5>
 
 <h2 style="font-family:verdana;">Key Highlights</h2>
-<h4 style="font-family:verdana;">Objective</h4><hr width="5%" size="1" color="yellow">
+<h4 style="font-family:verdana;">Objective</h4>
 <p style="font-family:courier;">Conducted in-depth analysis of the pharmaceutical dataset. Utilized Excel to extract valuable insights from the data. Successfully completed the project, contributing to Psyliq's data analysis efforts.</p>
 
 <h4 style="font-family:verdana;">Loading Data</h4>
@@ -136,7 +136,7 @@
     </li>
   </p>
   <h4 style="font-family:verdana;">Data Cleaning & Processing</h4>
- <ul>
+  <ul>
 	  <li>Assigning the correct data type to each column</li>
 	  <li>Remove Duplicates</li>
    	  <li>The "Quantity" and "Sales" columns contain negative values, indicating errors in data entry. To 
@@ -146,9 +146,9 @@
               create a separate table with two columns: one for the wrong values ​​and the other for the 
               correct values. This table will be used as reference for  improvements.
               VLOOKUP function is used to look up the correct value from the correction table in a new 
-              column.</li>    
-	  
-  </ul>
+              column.</li>    	  
+ </ul>
+ <h4 style="font-family:verdana;">Task Performed</h4>
 
  <h2 style="font-family:verdana;">How to Use</h2>
  <p style="font-family:courier;">I am attaching the link of, Excel file used for this  Data Analysis Project. 
