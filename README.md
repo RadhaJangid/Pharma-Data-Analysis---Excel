@@ -137,6 +137,12 @@
     </li>
   </ol>
   </p>
+  <h4 style="font-family:verdana;">Data Cleaning</h4>
+  <ul>
+	  <li>Assigning the correct data type to each column</li>
+	  <li>Remove Duplicates</li>
+	  
+  </ul>
 
  <h2 style="font-family:verdana;">How to Use</h2>
  <p style="font-family:courier;">I am attaching the link of, Excel file used for this  Data Analysis Project. 
