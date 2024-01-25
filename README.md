@@ -116,6 +116,10 @@
   <li>Excel</li>
 </ul></h5>
 
+<h2 style="font-family:verdana;">Key Highlights</h2>
+<h4 style="font-family:verdana;">Objective</h4>
+<p style="font-family:courier;">Conducted in-depth analysis of the pharmaceutical dataset. Utilized Excel to extract valuable insights from the data. Successfully completed the project, contributing to Psyliq's data analysis efforts.</p>
+
  <h2 style="font-family:verdana;">How to Use</h2>
  <p style="font-family:courier;">I am attaching the link of, Excel file used for this  Data Analysis Project. 
     Feel free to explore the code and findings.</p>
