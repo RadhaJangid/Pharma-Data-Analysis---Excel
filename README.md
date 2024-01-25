@@ -148,7 +148,7 @@
               VLOOKUP function is used to look up the correct value from the correction table in a new 
               column.</li>    	  
  </ul>
- <h2 style="font-family:verdana;">Task Performed</h2>
+ <h4 style="font-family:verdana;">Task Performed</h4>
  <ul>
 	 <li>Data is filtered to show only specific country records.</li>
 	 <li>The data is sorted in ascending order based on the "Sales" column.</li>
