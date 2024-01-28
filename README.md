@@ -168,7 +168,7 @@ Conducted in-depth analysis of the pharmaceutical dataset. Utilized Excel to ext
 
 ## How to Use - 
 
-I am attaching the link of, Excel file used for this  Data Analysis Project. Feel free to explore the code and findings.
+I am attaching the link of, Excel file used for this  Data Analysis Project. Feel free to explore the code and findings.<h6>Click here to view Excel File</h6>
 
 ## Acknowledgments -
 
